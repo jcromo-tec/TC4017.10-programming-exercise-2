@@ -1,0 +1,4 @@
+PRICE_LIST:  .\TC3\TC1.ProductList.json
+SALES_LIST:  .\TC3\TC3.Sales.json
+TOTAL SALES: 165235.37
+ELAPSED TIME: 0.046672 seconds.
